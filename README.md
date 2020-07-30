@@ -5,7 +5,7 @@ This tool is only for testing and can only be used where strict consent has been
 
 
 This tool captures all keyboard actions, public and private IP adresses of user, which folder user works on, what user does and saves data to '.txt' file in every 30 sec and it sends the file to your e-mail adress.
-After 30 sec it deletes the .txt file to not to be noticed. 
+After 30 sec it deletes the '.txt' file to not to be noticed. 
 
 
 
