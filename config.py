@@ -1,2 +1,2 @@
-fromAddr = 'mmcetin23@gmail.com'
-fromPswd = 'Kayseri.38'
+fromAddr = 'example@gmail.com'
+fromPswd = 'your password'
